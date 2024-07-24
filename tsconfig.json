@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2021",
+    "module": "esnext",
+    "lib": ["es2021", "dom"],
+    "jsx": "preserve",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "jsxImportSource": "solid-js",
+    "baseUrl": "."
+  }
+}
+
